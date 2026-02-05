@@ -237,3 +237,4 @@ Para dudas o soporte:
 ---
 
 **© 2026 - Taller 1 Bases de Datos - Ingeniería de Sistemas**
+"# ai-education-platform" 
