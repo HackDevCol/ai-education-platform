@@ -13,9 +13,9 @@ Este software fue desarrollado como parte del **Taller 1 - Bases de Datos** de l
 
 ## 👥 Integrantes
 
-- **Jeisson Estiber Palma Renteria** - 506231015
-- **Julian David Moreno Gutierrez** - 506231703
-- **Gustavo Gallego** - XXXXXXXXX
+- **Jeisson Estiber Palma Renteria** - 506231703
+- **Julian David Moreno Gutierrez** - 506231015
+- **Gustavo Gallego** - 506241038
 
 ## 🏗️ Arquitectura MVC
 
@@ -72,7 +72,7 @@ npm --version
 ### Paso 1: Descargar el Código
 
 ```bash
-# Opción A: Si está en GitHub
+# Opción A:
 git clone https://github.com/tu-usuario/ai-education-platform.git
 cd ai-education-platform
 
