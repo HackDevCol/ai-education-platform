@@ -1,0 +1,76 @@
+# ⚡ INICIO RÁPIDO - LÉEME PRIMERO
+
+## 🎯 ¿QUÉ HACER AHORA?
+
+### OPCIÓN 1: Instalación Automática (MÁS FÁCIL) 
+
+1. **Doble clic en:** `INSTALAR.bat`
+   - Instalará todo automáticamente
+   - Espera 2-5 minutos
+
+2. **Doble clic en:** `EJECUTAR.bat`
+   - Iniciará el servidor
+
+3. **Abre tu navegador en:** `http://localhost:3000`
+
+---
+
+### OPCIÓN 2: Instalación Manual
+
+Abre una terminal en esta carpeta y ejecuta:
+
+```bash
+# Paso 1: Instalar dependencias
+npm install
+
+# Paso 2: Ejecutar proyecto
+npm run dev
+
+# Paso 3: Abrir navegador en:
+http://localhost:3000
+```
+
+---
+
+## 📋 REQUISITOS
+
+Necesitas tener instalado **Node.js** versión 18 o superior.
+
+### ¿No tienes Node.js?
+1. Ve a: https://nodejs.org
+2. Descarga la versión **LTS** (recomendada)
+3. Instala con las opciones por defecto
+4. Reinicia tu computadora
+5. Vuelve aquí y ejecuta `INSTALAR.bat`
+
+---
+
+## 🆘 ¿PROBLEMAS?
+
+Consulta el archivo: `TUTORIAL_COMPLETO.md`
+
+Contiene soluciones a todos los problemas comunes.
+
+---
+
+## 📁 ARCHIVOS IMPORTANTES
+
+- `INSTALAR.bat` - Instalador automático (Windows)
+- `EJECUTAR.bat` - Ejecutar el proyecto (Windows)
+- `TUTORIAL_COMPLETO.md` - Guía paso a paso completa
+- `README.md` - Documentación completa del proyecto
+- `APORTES_INDIVIDUALES.md` - Para el documento del taller
+
+---
+
+## 🎓 PARA EL TALLER
+
+1. **Ejecuta el proyecto** (sigue las instrucciones de arriba)
+2. **Toma capturas** de cada sección
+3. **Lee** el archivo `APORTES_INDIVIDUALES.md`
+4. **Incluye** las capturas en tu documento
+5. **Agrega** la guía de instalación del README.md
+
+---
+
+**¡Éxito con tu taller!** 🎉

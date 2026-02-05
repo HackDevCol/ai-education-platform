@@ -1,0 +1,221 @@
+{
+  "tema": {
+    "nombre": "Inteligencia Artificial en Educación",
+    "descripcion": "La inteligencia artificial se ha consolidado como una de las tecnologías con mayor impacto en diversos sectores, y el ámbito educativo no ha sido la excepción. En los últimos años, su aplicación ha permitido transformar los procesos de enseñanza y aprendizaje mediante la personalización de contenidos, la automatización de tareas académicas y el análisis de grandes volúmenes de datos educativos.",
+    "motivacion": "Analizar la aplicación de la inteligencia artificial en la educación a partir de la revisión de artículos científicos, destacando beneficios, retos y proyecciones futuras en contextos educativos."
+  },
+  "integrantes": [
+    {
+      "id": 1,
+      "nombre": "Jeisson Estiber Palma Renteria",
+      "codigo": "506231703",
+      "baseDatos": "ScienceDirect",
+      "cadenaBusqueda": "(\"artificial intelligence\" AND education) AND (\"data analysis\" OR \"personalized learning\")",
+      "numeroResultados": 31807
+    },
+    {
+      "id": 2,
+      "nombre": "Julian David Moreno Gutierrez",
+      "codigo": "506231015",
+      "baseDatos": "Scopus",
+      "cadenaBusqueda": "((\"artificial intelligence\" OR AI) AND education AND learning) AND NOT \"higher education\"",
+      "numeroResultados": 34908
+    },
+    {
+      "id": 3,
+      "nombre": "Gustavo Adolfo Gallego Beltrán",
+      "codigo": "506241038",
+      "baseDatos": "ScienceDirect",
+      "cadenaBusqueda": "(\"artificial intelligence\" OR AI) AND (education OR pedagogy) AND (\"philosophy\")",
+      "numeroResultados": 585517
+    }
+  ],
+  "articulos": [
+    {
+      "id": 1,
+      "titulo": "Construction and optimization of personalized learning paths for English learners based on SSA-LSTM model",
+      "autores": "Sun, Y.",
+      "ano": 2025,
+      "revista": "ScienceDirect",
+      "resumen": "Este artículo presenta una propuesta basada en inteligencia artificial para la construcción de rutas de aprendizaje personalizadas en estudiantes de inglés, combinando el modelo LSTM con el algoritmo de optimización Sparrow Search Algorithm (SSA). El estudio utiliza datos de comportamiento de los estudiantes para predecir necesidades de aprendizaje y ajustar dinámicamente los contenidos, logrando una mejora significativa en la precisión y efectividad frente a modelos tradicionales.",
+      "palabrasClave": [
+        "personalized learning",
+        "LSTM",
+        "SSA",
+        "English learning",
+        "AI"
+      ],
+      "referenciaAPA": "Sun, Y. (2025). Construction and optimization of personalized learning paths for English learners based on SSA-LSTM model. ScienceDirect. https://doi.org/10.1016/j.sasc.2025.200218",
+      "integranteId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Artificial Intelligence in Education",
+      "autores": "Kumar, G., Sharma, D. & Bhardwaj, B.",
+      "ano": 2026,
+      "revista": "International Encyclopedia of Business Management",
+      "resumen": "Este artículo ofrece una visión general del impacto de la inteligencia artificial en la educación, abordando aplicaciones como los sistemas de tutoría inteligente, la automatización de procesos académicos, la personalización del aprendizaje y la mejora de la eficiencia docente. Los autores destacan cómo la integración de la IA contribuye a reducir desigualdades educativas y a crear entornos de aprendizaje más accesibles y adaptativos.",
+      "palabrasClave": [
+        "artificial intelligence",
+        "education",
+        "intelligent tutoring systems",
+        "personalization"
+      ],
+      "referenciaAPA": "Kumar, G., Sharma, D., & Bhardwaj, B. (2026). Artificial intelligence in education. In International Encyclopedia of Business Management (Vol. 3, pp. 554–559). Elsevier. https://doi.org/10.1016/B978-0-443-13701-3.00483-7",
+      "integranteId": 1
+    },
+    {
+      "id": 3,
+      "titulo": "The future of artificial intelligence in medical education and continuing medical education",
+      "autores": "Webber, C. J., Whitworth, P. & Stenner, S. P.",
+      "ano": 2025,
+      "revista": "Primary Care: Clinics in Office Practice",
+      "resumen": "Este artículo analiza el impacto actual y futuro de la inteligencia artificial en la educación médica y la formación continua de profesionales de la salud. Se destacan aplicaciones como la personalización del aprendizaje, el uso de modelos generativos, el apoyo a la toma de decisiones clínicas y el aprendizaje continuo basado en datos. Asimismo, se discuten los desafíos éticos y técnicos asociados a la implementación de estas tecnologías.",
+      "palabrasClave": [
+        "medical education",
+        "AI",
+        "continuing education",
+        "healthcare",
+        "generative models"
+      ],
+      "referenciaAPA": "Webber, C. J., Whitworth, P., & Stenner, S. P. (2025). The future of artificial intelligence in medical education and continuing medical education. Primary Care: Clinics in Office Practice, 52(4), 781–797. https://doi.org/10.1016/j.pop.2025.07.010",
+      "integranteId": 1
+    },
+    {
+      "id": 4,
+      "titulo": "Analysis of Factors Affecting Academic Success with Machine Learning: Data-Driven Inferences in Education",
+      "autores": "Alkan, Ayşe",
+      "ano": 2026,
+      "revista": "Turkish Journal of Engineering",
+      "resumen": "Este artículo analiza el uso de técnicas de machine learning para predecir el éxito académico de los estudiantes a partir de datos educativos. El estudio emplea siete algoritmos diferentes (SVM, LR, KNN, RF, NB, DT y LDA) con el fin de identificar los factores que influyen en el rendimiento académico. Los resultados muestran que los modelos RF, SVM y LDA alcanzan una precisión del 91%, destacándose el modelo LDA por su equilibrio y rendimiento.",
+      "palabrasClave": [
+        "machine learning",
+        "academic success",
+        "data-driven",
+        "educational analytics",
+        "prediction"
+      ],
+      "referenciaAPA": "Alkan, A. (2026). Analysis of factors affecting academic success with machine learning: Data-driven inferences in education. Turkish Journal of Engineering. https://doi.org/10.31127/tuje.1779491",
+      "integranteId": 2
+    },
+    {
+      "id": 5,
+      "titulo": "AI-Supported Learning in Online Discussion Forums: A Scoping Review",
+      "autores": "Yoshida, Masamia; Duangchinda, Vorasuang; Ruangrit, Nammon",
+      "ano": 2026,
+      "revista": "Electronic Journal of e-Learning",
+      "resumen": "Este artículo presenta una revisión de alcance sobre el uso de la inteligencia artificial en foros de discusión dentro de entornos de educación en línea. El estudio analiza doce artículos seleccionados a partir de búsquedas en Scopus, siguiendo el marco metodológico SALSA y el diagrama PRISMA. Los resultados identifican seis aplicaciones principales de la IA en los foros de discusión, entre ellas sistemas de tutoría inteligente, chatbots, asistentes de enseñanza basados en IA y sistemas de evaluación automática.",
+      "palabrasClave": [
+        "online learning",
+        "discussion forums",
+        "AI support",
+        "chatbots",
+        "intelligent tutoring"
+      ],
+      "referenciaAPA": "Yoshida, M., Duangchinda, V., & Ruangrit, N. (2026). AI-supported learning in online discussion forums: A scoping review. Electronic Journal of e-Learning, 24(1). https://doi.org/10.34190/ejel.24.1.4409",
+      "integranteId": 2
+    },
+    {
+      "id": 6,
+      "titulo": "Development and Validation of an AI Literacy Scale for Pre-Service Teachers in Thailand",
+      "autores": "Khlaisang, Jintavee; Pingmuang, Pawarit; Koraneekij, Prakob",
+      "ano": 2026,
+      "revista": "Electronic Journal of e-Learning",
+      "resumen": "Este artículo aborda el desarrollo y la validación de una escala de alfabetización en inteligencia artificial (AI literacy) dirigida a docentes en formación. El estudio emplea análisis factorial exploratorio (EFA) y confirmatorio (CFA) para construir y validar un instrumento de autoevaluación compuesto por cuatro dimensiones clave: reconocimiento de la IA, comprensión fundamental, pedagogía y uso ético de la IA. La validación se realizó con una muestra amplia de 1,673 estudiantes universitarios de programas de formación docente en universidades públicas y privadas de Tailandia.",
+      "palabrasClave": [
+        "AI literacy",
+        "teacher education",
+        "scale validation",
+        "Thailand",
+        "pre-service teachers"
+      ],
+      "referenciaAPA": "Pingmuang, P., Koraneekij, P., & Khlaisang, J. (2026). Development and validation of an AI literacy scale for pre-service teachers in Thailand. Electronic Journal of e-Learning, 24(1). https://doi.org/10.34190/ejel.24.1.3990",
+      "integranteId": 2
+    },
+    {
+      "id": 7,
+      "titulo": "Integración de analíticas de aprendizaje e inteligencia artificial en una aplicación web para la enseñanza de neurociencias: evaluación de su impacto",
+      "autores": "Robayo Avendaño, Omar",
+      "ano": 2026,
+      "revista": "Educación Médica",
+      "resumen": "El artículo presenta una investigación sobre cómo la integración de inteligencia artificial (IA) y analíticas de aprendizaje en una aplicación web puede transformar la enseñanza de las neurociencias en medicina. El autor desarrolló una herramienta interactiva de neuroanatomía para abordar la 'neurofobia', un fenómeno de aversión hacia esta disciplina debido a su complejidad. Los resultados revelaron un uso altamente estratégico de la aplicación, concentrado mayoritariamente en los días previos a los exámenes. Se halló una asociación lineal positiva y significativa entre la cantidad de interacciones con la plataforma y el rendimiento académico, demostrando que estas tecnologías fomentan la autorregulación y mejoran los resultados de aprendizaje.",
+      "palabrasClave": [
+        "analíticas de aprendizaje",
+        "inteligencia artificial",
+        "neurociencias",
+        "educación médica",
+        "neurofobia"
+      ],
+      "referenciaAPA": "Robayo Avendaño, O. (2026). Integración de analíticas de aprendizaje e inteligencia artificial en una aplicación web para la enseñanza de neurociencias: evaluación de su impacto. Educación Médica, 27(2), 101148. https://doi.org/10.1016/j.edumed.2025.101148",
+      "integranteId": 3
+    },
+    {
+      "id": 8,
+      "titulo": "Impacto de la inteligencia artificial en los métodos de evaluación en la educación primaria y secundaria: revisión sistemática de la literatura",
+      "autores": "Martínez Comesaña, M., Rigueira Díaz, X., Larrañaga Janeiro, A., Martínez Torres, J., Ocarranza Prado, I. & Kreibel, D.",
+      "ano": 2023,
+      "revista": "Revista de Psicodidáctica",
+      "resumen": "Este artículo presenta una revisión sistemática de la literatura sobre cómo la inteligencia artificial está transformando los métodos de evaluación en la educación primaria y secundaria. El estudio analiza diversas investigaciones para identificar las tecnologías más utilizadas, como el aprendizaje automático, el procesamiento de lenguaje natural y la robótica educativa. Los autores destacan que la IA permite pasar de una evaluación tradicional y punitiva a una evaluación formativa y personalizada, capaz de proporcionar retroalimentación inmediata y predecir el rendimiento académico para prevenir el fracaso escolar.",
+      "palabrasClave": [
+        "inteligencia artificial",
+        "métodos de evaluación",
+        "educación primaria",
+        "educación secundaria",
+        "machine learning"
+      ],
+      "referenciaAPA": "Martínez Comesaña, M., Rigueira Díaz, X., Larrañaga Janeiro, A., Martínez Torres, J., Ocarranza Prado, I., & Kreibel, D. (2023). Impacto de la inteligencia artificial en los métodos de evaluación en la educación primaria y secundaria: revisión sistemática de la literatura. Revista de Psicodidáctica, 28(2), 93-103. https://doi.org/10.1016/j.psicod.2023.06.001",
+      "integranteId": 3
+    },
+    {
+      "id": 9,
+      "titulo": "Students' writing skills and creativity in the age of artificial intelligence: A systematic review of creativity across diverse AI-supported writing contexts",
+      "autores": "Bal, M. & Arseven, T.",
+      "ano": 2026,
+      "revista": "Thinking Skills and Creativity",
+      "resumen": "Este artículo ofrece una revisión sistemática de la literatura sobre la intersección entre la inteligencia artificial, las habilidades de escritura y la creatividad en estudiantes de diversos niveles educativos. Los autores destacan que la IA puede actuar como un catalizador para la creatividad al facilitar la generación de ideas y la estructuración de contenidos, permitiendo que los estudiantes superen bloqueos iniciales. Sin embargo, también advierten sobre el riesgo de una dependencia excesiva que podría limitar el pensamiento crítico y la voz original del escritor.",
+      "palabrasClave": [
+        "creatividad",
+        "habilidades de escritura",
+        "inteligencia artificial",
+        "educación",
+        "pensamiento crítico"
+      ],
+      "referenciaAPA": "Bal, M., & Arseven, T. (2026). Students' writing skills and creativity in the age of artificial intelligence: A systematic review of creativity across diverse AI-supported writing contexts. Thinking Skills and Creativity, 60, 102118. https://doi.org/10.1016/j.tsc.2025.102118",
+      "integranteId": 3
+    }
+  ],
+  "herramientasIA": [
+    {
+      "id": 1,
+      "nombre": "ChatGPT",
+      "descripcion": "Modelo de lenguaje avanzado para asistencia educativa, generación de contenido y tutoría personalizada",
+      "categoria": "Asistente Virtual",
+      "url": "https://chat.openai.com",
+      "nivelEducativo": "Todos los niveles"
+    },
+    {
+      "id": 2,
+      "nombre": "Khan Academy AI Tutor",
+      "descripcion": "Tutor inteligente personalizado para matemáticas, ciencias y otras materias",
+      "categoria": "Sistema de Tutoría Inteligente",
+      "url": "https://www.khanacademy.org",
+      "nivelEducativo": "Básica, Media, Superior"
+    },
+    {
+      "id": 3,
+      "nombre": "Gradescope",
+      "descripcion": "Plataforma de calificación asistida por IA para evaluaciones y retroalimentación automatizada",
+      "categoria": "Evaluación Automática",
+      "url": "https://www.gradescope.com",
+      "nivelEducativo": "Superior"
+    },
+    {
+      "id": 4,
+      "nombre": "Gemini",
+      "descripcion": "La aplicación móvil de Gemini te ofrece acceso directo a la mejor familia de modelos de IA de Google en tu dispositivo para que puedas: Obtener ayuda para escribir, hacer una lluvia de ideas, aprender y más. Resumir y encontrar rápidamente información de Gmail o Google Drive.",
+      "categoria": "Asistente Virtual",
+      "url": "https://gemini.google.com/app",
+      "nivelEducativo": "TODOS LOS NIVELES"
+    }
+  ]
+}
